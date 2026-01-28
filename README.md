@@ -11,21 +11,23 @@ Most things behave as you'd expect, no learning curve. Focus on a single file, o
 
 Your configuration lives in plain text, so it can be version-controlled, shared across machines, or stored in the cloud.
 
+
 ## Simple and fast
 
 Hackerman Text ships with built-in, native-level lexers tuned for speed. There are currently no plans to add heavier, language-aware tooling.
+
 
 ## Inline AI chat
 
 Edit or delete context as plain text, or use Markdown for extra structure. Chats can be saved to disk, version controlled, and resumed later in any editor.
 
-Powered by [Ollama](https://ollama.com/download)
 
 ## Custom bindable functions
 
 Write your own editor commands in a small, well-defined subset of Python.
 
 Functions hot-reload from your scripts file, show up in the function explorer, and can be bound to any key, so your custom workflows feel like built-in features.
+
 
 ## Intuitive key bindings
 
@@ -35,6 +37,7 @@ Hackerman Text uses platform-default shortcuts. No learning curve.
 line_start              Command + Left, Control + A
 line_end                Command + Right, Control + E
 ```
+
 
 # Editor roadmap
 
@@ -52,6 +55,7 @@ line_end                Command + Right, Control + E
 | Zero-latency typing (<10ms)                               |  |  |
 | Context-aware autocomplete                                |  |  |
 | Code scroller (minimap)                                   |  |  |
+
 
 ## Model support
 
@@ -75,7 +79,29 @@ chat                    openai, gpt-5.1-chat-latest, ...
 
 ## Programming language support
 
-Assembly, Bash, C, C++, C#, CSS, Cython, D, Haskell, HTML, JavaScript, LaTeX, Lua, Makefile, Markdown, Odin, Pascal, PHP, Python, Ruby, Rust, Zig
+| Supported     | Planned       |
+| :---          | :---          |
+| Assembly      | Dart          |
+| Bash          | Fortran       |
+| C             | Go            |
+| C++           | Kotlin        |
+| C#            | Lisp          |
+| CSS           | Mojo          |
+| D             | Nim           |
+| Haskell       | OCaml         |
+| HTML          | Perl          |
+| JavaScript    | PowerShell    |
+| LaTeX         | Prolog        |
+| Lua           | R             |
+| Makefile      | Scala         |
+| Markdown      | Swift         |
+| Odin          | TypeScript    |
+| Pascal        | Verilog       |
+| PHP           | Jai           |
+| Python        |               |
+| Ruby          |               |
+| Rust          |               |
+| Zig           |               |
 
-Planned: Dart, Fortran, Go, Kotlin, Lisp, Mojo, Nim, OCaml, Perl, PowerShell, Prolog, R, Scala, Swift, TypeScript, Verilog, Jai
+
 
