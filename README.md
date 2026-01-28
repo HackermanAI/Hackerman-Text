@@ -1,5 +1,5 @@
 
-[Download](https://github.com/HackermanAI/text/releases) | [Buy license](https://hackerman.ai/#waitlist) | [Feedback + bugs](https://github.com/HackermanAI/text/issues)
+[Download](https://github.com/HackermanAI/text/releases) | [Buy license](https://hackerman.ai/#waitlist) | [Feedback + bugs](https://github.com/HackermanAI/text/issues) | [Submit feature request >>](https://github.com/HackermanAI/text/discussions/categories/ideas)
 
 ![banner](banner.png)
 
