@@ -13,15 +13,11 @@
 
 ### Simple and fast
 
-Built-in, native-level lexers. A minimal always-visible UI keeps the focus on code.
-
-The goal is near-zero typing latency, even in huge files, in any language. Anything that measurably slows this down is either removed or made opt-in.
+Built-in, native-level lexers. A minimal always-visible UI keeps the focus on code. The goal is near-zero typing latency, even in huge files, in any language. Anything that measurably slows this down is either removed or made opt-in.
 
 ### Inline AI chat
 
-Edit and organize chat conversations as plain text, or Markdown. Chats can be saved to disk, version controlled, and opened later in any editor.
-
-Local model support via Ollama, plus out-of-the-box integration with OpenAI and Mistral, with more providers planned over time.
+Edit and organize chat conversations as plain text, or Markdown. Chats can be saved to disk, version controlled, and opened later in any editor. Local model support via Ollama, plus out-of-the-box integration with OpenAI and Mistral, with more providers planned over time.
 
 ### Intuitive key bindings
 
@@ -39,9 +35,7 @@ line_end                Command + Right, Control + E
 
 ### Custom bindable functions
 
-Write your own editor commands in a small, well-defined subset of Python.
-
-Functions hot-reload from your scripts file, show up in the function explorer, and can be bound to any key, so your custom workflows feel like built-in features.
+Write your own editor commands in a small, well-defined subset of Python. Functions hot-reload from your scripts file, show up in the function explorer, and can be bound to any key, so your custom workflows feel like built-in features.
 
 ### Context-aware autocomplete
 
@@ -49,9 +43,7 @@ Autocomplete stays fast by indexing the current file on load and updating as you
 
 ### Project-wide search
 
-Filter the file explorer instantly to jump to what you need (e.g. c/, .py).
-
-For deeper searches, scan every file for a pattern and export the results as plain text to save, share, or work from.
+Filter the file explorer instantly to jump to what you need (e.g. c/, .py). For deeper searches, scan every file for a pattern and export the results as plain text to save, share, or work from.
 
 
 ## Editor roadmap
