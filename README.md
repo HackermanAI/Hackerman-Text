@@ -103,5 +103,5 @@ chat                    openai, gpt-5.1-chat-latest, ...
 | Rust          |               |
 | Zig           |               |
 
-
+[Submit feature request >>](https://github.com/HackermanAI/text/issues/new)
 
