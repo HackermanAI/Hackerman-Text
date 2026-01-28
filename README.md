@@ -1,4 +1,6 @@
 
+[Download](https://github.com/HackermanAI/text/releases) | [Buy license](https://hackerman.ai/#waitlist) | [Submit feature request >>](https://github.com/HackermanAI/text/issues/new)
+
 ![banner](banner.png)
 
 # Hackerman Text, the AI-native code editor 
@@ -55,6 +57,8 @@ line_end                Command + Right, Control + E
 | Zero-latency typing (<10ms)                               |  |  |
 | Context-aware autocomplete                                |  |  |
 | Code scroller (minimap)                                   |  |  |
+
+[Submit feature request >>](https://github.com/HackermanAI/text/issues/new)
 
 
 ## Model support
