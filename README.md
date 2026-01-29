@@ -43,7 +43,7 @@ Autocomplete stays fast by indexing the current file on load and updating as you
 
 ### Project-wide search
 
-Filter the file explorer instantly to jump to what you need (e.g. c/, .py). For deeper searches, scan every file for a pattern and export the results as plain text to save, share, or work from.
+Filter the file explorer instantly to jump to what you need (e.g. `c/`, `.py`). For deeper searches, scan every file for a pattern and export the results as plain text to save, share, or work from.
 
 
 ## Editor roadmap
