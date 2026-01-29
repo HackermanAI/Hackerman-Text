@@ -11,14 +11,13 @@
 
 ## Quick start guide
 
-| `Command + E` | File explorer (drop folder on editor or edit config file to update root directory) |
-| `Command + Shift + E` | File outline for quick overview and navigation |
-| `Command + P` (or right click) | Function explorer with all editor functions and key bindings |
-| `Command + Shift + P` | Open config file in new buffer |
-| `Command + F` | Find in file |
-| `Command + Shift + F` | Project-wide search (hit enter in search input to export as org-file) |
-| `Command + W` | Toggle split view (shared document with open buffer) |
-| `Shift + Click` ||
+| `Command + E`                     | File explorer (drop folder on editor or edit config file to update root directory) |
+| `Command + Shift + E`             | File outline for quick overview and navigation |
+| `Command + P` (or right click)    | Function explorer with all editor functions and key bindings |
+| `Command + Shift + P`             | Open config file in new buffer |
+| `Command + F`                     | Find in file |
+| `Command + Shift + F`             | Project-wide search (hit enter in search input to export as org-file) |
+| `Command + W`                     | Toggle split view (shared document with open buffer) |
 
 Other useful default key bindings to get you started:
 
