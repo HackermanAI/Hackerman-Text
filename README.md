@@ -11,7 +11,7 @@
 
 ## Quick start guide
 
-| | |
+| Key binding (Command is ⌘)        | Function |
 | :---                              | :--- |
 | `Command + E`                     | File explorer (drop folder on editor or edit config file to update root directory) |
 | `Command + Shift + E`             | File outline for quick overview and navigation |
