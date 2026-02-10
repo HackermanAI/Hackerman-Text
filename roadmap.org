@@ -7,6 +7,7 @@
 - Multiple views, single document
 - Create your own themes
 - Local LLMs
+- Zero-latency typing (<10ms)
 - Copilot-like code completion
 - Project-wide search
 - Keybind custom functions
@@ -15,14 +16,14 @@
 
 * In progress
 
-- Code scroller (minimap)
+- Reliability bug fixes
 - Bring your own lexer
-- Support for mix-and-match LLMs (local and hosted)
 - Sublime-like performance
 
 ** Testing
 
-- Zero-latency typing (<10ms)
+- Code scroller (minimap)
+- Support for mix-and-match LLMs (local and hosted)
 - Context-aware autocomplete
 
 * Ideas
