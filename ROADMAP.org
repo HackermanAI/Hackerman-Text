@@ -1,4 +1,8 @@
 
+[[banner.png]]
+
+[[https://github.com/HackermanAI/Hackerman-Text/releases][Download]] • [[https://hackerman.ai/#pricing][Buy license]] • [[https://github.com/HackermanAI/Hackerman-Text/issues][Feedback + bugs]] • [[https://github.com/HackermanAI/Hackerman-Text/discussions/categories/ideas][Submit feature request]]
+
 * Done
 
 - Core editor features
